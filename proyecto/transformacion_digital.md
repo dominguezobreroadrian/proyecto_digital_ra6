@@ -12,7 +12,12 @@
 - Ampliar el alcance a nivel nacional e internacional.
 
 ## 3) Áreas
--
+- **Ventas:** tienda física, marketplaces y futura web.
+- **Inventario:** control de stock, precios y catálogo.
+- **Marketing:** redes sociales, campañas y fidelización.
+
+**Relación:**  
+El inventario alimenta todos los canales de venta, mientras que marketing impulsa el tráfico y las ventas en cada uno de ellos.
 
 ## 4) Tecnologías
 -
