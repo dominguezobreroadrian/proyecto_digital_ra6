@@ -82,8 +82,18 @@ El inventario alimenta todos los canales de venta, mientras que marketing impuls
   - Problemas de gestión interna 
 
 ## 10) UML
-- Casos de uso:
-- Clases:
+- **Casos de uso:**  
+  - Comprar producto  
+  - Gestionar inventario  
+  - Sincronizar marketplaces  
+  - Gestionar clientes  
+
+- **Clases:**  
+  - Producto  
+  - Cliente  
+  - Pedido  
+  - Inventario  
+  - Plataforma 
 
 ## 11) Conclusión
--
+RetroGame Hub necesita evolucionar hacia un modelo digital integrado para mejorar su eficiencia y crecer en un mercado cada vez más competitivo. La transformación digital permitirá optimizar procesos internos y ampliar su alcance más allá del entorno local.
