@@ -39,7 +39,13 @@ El inventario alimenta todos los canales de venta, mientras que marketing impuls
   - Tendencias del mercado retro  
 
 ## 6) Seguridad
--
+- **Riesgos:**  
+  - Robo de cuentas o accesos no autorizados  
+  - Pérdida de datos por fallos técnicos  
+
+- **Medidas de protección:**  
+  - Autenticación segura y control de roles  
+  - Backups automáticos en la nube  
 
 ## 7) RRHH
 -
