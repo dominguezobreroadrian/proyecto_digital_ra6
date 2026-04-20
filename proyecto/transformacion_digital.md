@@ -70,7 +70,16 @@ El inventario alimenta todos los canales de venta, mientras que marketing impuls
   - Actualización de precios  
 
 ## 9) Valor
--
+- **Beneficios de digitalizar:**  
+  - Escalabilidad del negocio  
+  - Reducción de errores  
+  - Mejora en la toma de decisiones  
+  - Acceso a nuevos mercados  
+
+- **Riesgos de no hacerlo:**  
+  - Dependencia de plataformas externas  
+  - Pérdida de competitividad  
+  - Problemas de gestión interna 
 
 ## 10) UML
 - Casos de uso:
