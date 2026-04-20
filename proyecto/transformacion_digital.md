@@ -48,7 +48,15 @@ El inventario alimenta todos los canales de venta, mientras que marketing impuls
   - Backups automáticos en la nube  
 
 ## 7) RRHH
--
+- **Nuevas competencias digitales:**  
+  - Gestión de e-commerce  
+  - Uso de herramientas de analítica  
+  - Gestión de inventario digital  
+
+- **Cambios organizativos:**  
+  - Formación del personal actual  
+  - Posible incorporación de perfil técnico  
+  - Reducción de tareas manuales  
 
 ## 8) Integración
 -
