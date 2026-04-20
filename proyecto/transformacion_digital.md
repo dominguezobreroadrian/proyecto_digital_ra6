@@ -26,10 +26,17 @@ El inventario alimenta todos los canales de venta, mientras que marketing impuls
 - **API de marketplaces:** integración con eBay/Wallapop.
 
 ## 5) Datos
- - Productos (estado, rareza, precio)  
- - Clientes  
- - Ventas y pedidos  
- - Proveedores  
+- **Datos manejados:**  
+  - Productos (estado, rareza, precio)  
+  - Clientes  
+  - Ventas y pedidos  
+  - Proveedores  
+
+- **Información obtenida:**  
+  - Productos más demandados  
+  - Rotación de stock  
+  - Clientes recurrentes  
+  - Tendencias del mercado retro  
 
 ## 6) Seguridad
 -
