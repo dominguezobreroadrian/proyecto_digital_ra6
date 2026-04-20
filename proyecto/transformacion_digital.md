@@ -20,7 +20,10 @@
 El inventario alimenta todos los canales de venta, mientras que marketing impulsa el tráfico y las ventas en cada uno de ellos.
 
 ## 4) Tecnologías
--
+- **E-commerce (web app):** plataforma propia de venta online.
+- **Base de datos (BD):** gestión centralizada de productos y clientes.
+- **Cloud computing:** hosting y sincronización de datos.
+- **API de marketplaces:** integración con eBay/Wallapop.
 
 ## 5) Datos
 -
