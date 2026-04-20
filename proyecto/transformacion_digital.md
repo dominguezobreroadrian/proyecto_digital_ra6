@@ -59,7 +59,15 @@ El inventario alimenta todos los canales de venta, mientras que marketing impuls
   - Reducción de tareas manuales  
 
 ## 8) Integración
--
+- **Sistemas conectados:**  
+  - Web de ventas  
+  - Base de datos de inventario  
+  - Marketplaces externos  
+
+- **Procesos automatizados:**  
+  - Sincronización de stock  
+  - Gestión de pedidos  
+  - Actualización de precios  
 
 ## 9) Valor
 -
